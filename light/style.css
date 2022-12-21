@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(199, 199, 199);
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.header {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+nav form {
+    display: inline;
+}
+
+input {
+    background-color: #a7a7a7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: large;
+}
+
+.images {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.images img {
+    max-width: 60%;
+    
+}
+
+.footer {
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
